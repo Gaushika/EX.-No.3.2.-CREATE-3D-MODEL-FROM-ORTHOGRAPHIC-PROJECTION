@@ -1,4 +1,6 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+## Name :Gaushika RR
+## Ref.no : 25017292
 ## DATE:03/02/2026
 ## AIM:
 To create a 3D model from given orthographic projection.
